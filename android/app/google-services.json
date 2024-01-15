@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143004847244",
+    "project_id": "localcluster-99139",
+    "storage_bucket": "localcluster-99139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143004847244:android:96d724b35d747936383fa9",
+        "android_client_info": {
+          "package_name": "com.vamshikrishna.local.local"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN13oIWb6iwlWTcUHEZE5UasIYy-Modqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
